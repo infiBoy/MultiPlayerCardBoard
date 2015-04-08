@@ -11,9 +11,10 @@ The Repository manage to make a true and light multiplayer  in google cardboard 
 
 
 #Unity Basics:
-[Great unity tutorials](http://unity3d.com/learn/tutorials/modules)
-[Manual for Unity](http://docs.unity3d.com/Manual/index.html)
+* [Great unity tutorials](http://unity3d.com/learn/tutorials/modules)
+
+* [Manual for Unity](http://docs.unity3d.com/Manual/index.html)
 
 
 #Network Communication at Unity
-[Network basic tutorial](http://www.paladinstudios.com/2013/07/10/how-to-create-an-online-multiplayer-game-with-unity/)
+* [Network basic tutorial](http://www.paladinstudios.com/2013/07/10/how-to-create-an-online-multiplayer-game-with-unity/)
