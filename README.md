@@ -2,10 +2,12 @@
 The Repository manage to make a true and light multiplayer  in google cardboard platform
 
 
-#These are the best recommended way to know before comtribute to the project:
+#These are the best recommended things to  know before contribute to the project:
 
 
 #Unity Basics:
+http://docs.unity3d.com/Manual/index.html
+And try the basic tutorials of creating games
 
 
 #Network Communication at Unity
